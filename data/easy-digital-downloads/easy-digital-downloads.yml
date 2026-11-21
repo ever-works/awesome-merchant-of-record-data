@@ -1,0 +1,13 @@
+name: "Easy Digital Downloads"
+description: "Open source WordPress plugin for selling digital products and software licenses. Self-hosted with payment gateway integrations and file access control. GPL licensed; core is free with paid extensions."
+source_url: "https://easydigitaldownloads.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "wordpress"
+  - "digital-products"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/easydigitaldownloads.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://easydigitaldownloads.com/>\n- Repository: <https://github.com/easydigitaldownloads/Easy-Digital-Downloads>\n\nLicense: GPL-2.0-or-later.\n"
+updated_at: "2026-11-21 07:40"

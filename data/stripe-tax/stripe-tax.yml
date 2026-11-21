@@ -1,0 +1,13 @@
+name: "Stripe Tax"
+description: "Tax compliance add-on for Stripe that calculates and collects sales tax and VAT. Integrates with Stripe Billing, Checkout, and Invoicing. Usage-based pricing per transaction."
+source_url: "https://stripe.com/tax"
+category: "Tax Compliance Add-ons"
+tags:
+  - "tax-compliance"
+  - "sales-tax"
+  - "vat"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/stripe.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://stripe.com/tax>\n"
+updated_at: "2026-11-21 07:40"

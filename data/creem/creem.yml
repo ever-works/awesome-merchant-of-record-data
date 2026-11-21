@@ -1,0 +1,13 @@
+name: "Creem"
+description: "Merchant of record platform for SaaS businesses handling global tax compliance and payments. Provides checkout, subscription management, and invoicing while acting as the seller of record. Charges a percentage of revenue with no monthly fee."
+source_url: "https://creem.com/"
+category: "Merchant-of-Record Platforms"
+tags:
+  - "merchant-of-record"
+  - "saas"
+  - "checkout"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/creem.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://creem.com/>\n"
+updated_at: "2026-11-21 07:40"

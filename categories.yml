@@ -1,0 +1,12 @@
+- id: merchant-of-record-platforms
+  name: "Merchant-of-Record Platforms"
+- id: digital-product-storefronts
+  name: "Digital-Product Storefronts"
+- id: tax-compliance-add-ons
+  name: "Tax Compliance Add-ons"
+- id: payment-processors-non-mor
+  name: "Payment Processors (non-MoR)"
+- id: marketplace-and-payout-mor
+  name: "Marketplace & Payout MoR"
+- id: pricing-and-checkout-tools
+  name: "Pricing & Checkout Tools"

@@ -1,0 +1,12 @@
+name: "Adyen"
+description: "Global payment processor serving enterprise businesses with online, mobile, and in-store payment acceptance. Supports local payment methods and risk management. Not a merchant of record; custom enterprise pricing."
+source_url: "https://adyen.com/"
+category: "Payment Processors (non-MoR)"
+tags:
+  - "payment-processor"
+  - "enterprise"
+  - "api"
+  - "global-payments"
+icon_url: "https://icons.duckduckgo.com/ip3/adyen.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://adyen.com/>\n"
+updated_at: "2026-11-21 07:40"

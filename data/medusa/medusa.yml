@@ -1,0 +1,13 @@
+name: "Medusa"
+description: "Open source headless commerce platform for building custom digital storefronts. Self-hosted with a Node.js backend and admin dashboard. MIT licensed; community and cloud editions available."
+source_url: "https://medusajs.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "headless-commerce"
+  - "node-js"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/medusajs.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://medusajs.com/>\n- Repository: <https://github.com/medusajs/medusa>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 07:40"

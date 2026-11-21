@@ -1,0 +1,13 @@
+name: "WooCommerce"
+description: "Open source ecommerce plugin for WordPress powering digital and physical product stores. Self-hosted with extensive extensions for payments and subscriptions. GPL licensed; core is free with paid add-ons."
+source_url: "https://woocommerce.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "wordpress"
+  - "ecommerce"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/woocommerce.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://woocommerce.com/>\n- Repository: <https://github.com/woocommerce/woocommerce>\n\nLicense: GPL-3.0-or-later.\n"
+updated_at: "2026-11-21 07:40"

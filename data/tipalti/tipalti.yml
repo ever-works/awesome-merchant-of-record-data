@@ -1,0 +1,13 @@
+name: "Tipalti"
+description: "Payables automation and global payout platform for marketplaces and SaaS. Handles supplier onboarding, tax compliance, and cross-border payments. Not a merchant of record; enterprise subscription pricing."
+source_url: "https://tipalti.com/"
+category: "Marketplace & Payout MoR"
+tags:
+  - "payouts"
+  - "accounts-payable"
+  - "global-payments"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/tipalti.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://tipalti.com/>\n"
+updated_at: "2026-11-21 07:40"

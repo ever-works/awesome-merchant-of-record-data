@@ -1,0 +1,13 @@
+name: "Avalara"
+description: "Tax compliance software for sales tax, VAT, and indirect tax calculation. Integrates with ecommerce, ERP, and accounting systems. Not a merchant of record; subscription and usage-based enterprise pricing."
+source_url: "https://www.avalara.com/"
+category: "Tax Compliance Add-ons"
+tags:
+  - "tax-compliance"
+  - "sales-tax"
+  - "vat"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.avalara.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.avalara.com/>\n"
+updated_at: "2026-11-21 07:40"

@@ -1,0 +1,13 @@
+name: "Sellfy"
+description: "Ecommerce platform for creators selling digital products, print-on-demand, and subscriptions. Provides hosted storefront, checkout, and marketing tools. Paid monthly plans with no transaction fees on higher tiers."
+source_url: "https://sellfy.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "digital-products"
+  - "storefront"
+  - "creators"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/sellfy.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://sellfy.com/>\n"
+updated_at: "2026-11-21 07:40"

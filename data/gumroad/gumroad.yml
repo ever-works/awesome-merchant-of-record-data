@@ -1,0 +1,13 @@
+name: "Gumroad"
+description: "Digital product storefront for creators selling ebooks, courses, memberships, and software. Provides hosted checkout, email marketing, and payout handling. Offers a free plan with transaction fees and paid tiers."
+source_url: "https://gumroad.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "digital-products"
+  - "storefront"
+  - "creators"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/gumroad.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://gumroad.com/>\n"
+updated_at: "2026-11-21 07:40"

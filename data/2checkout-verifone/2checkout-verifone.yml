@@ -1,0 +1,13 @@
+name: "2Checkout (Verifone)"
+description: "Verifone's online payment and merchant of record solution for global SaaS and digital commerce. Supports global tax, subscriptions, and multiple payment methods. Pricing is quote-based and geared toward established businesses."
+source_url: "https://www.verifone.com/"
+category: "Merchant-of-Record Platforms"
+tags:
+  - "merchant-of-record"
+  - "global-payments"
+  - "tax"
+  - "enterprise"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.verifone.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.verifone.com/>\n"
+updated_at: "2026-11-21 07:40"

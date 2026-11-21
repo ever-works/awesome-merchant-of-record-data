@@ -1,0 +1,13 @@
+name: "Payhip"
+description: "Ecommerce platform for digital products, memberships, and physical goods. Includes hosted storefront, checkout, and automatic VAT handling. Offers a free plan with transaction fees plus monthly subscriptions."
+source_url: "https://payhip.com/"
+category: "Digital-Product Storefronts"
+tags:
+  - "digital-products"
+  - "storefront"
+  - "memberships"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/payhip.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://payhip.com/>\n"
+updated_at: "2026-11-21 07:40"

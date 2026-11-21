@@ -1,0 +1,66 @@
+- id: merchant-of-record
+  name: "Merchant of Record"
+- id: saas
+  name: "SaaS"
+- id: global-tax
+  name: "Global Tax"
+- id: api
+  name: "API"
+- id: paid
+  name: "Paid"
+- id: digital-products
+  name: "Digital Products"
+- id: developer-tools
+  name: "Developer Tools"
+- id: checkout
+  name: "Checkout"
+- id: global-payments
+  name: "Global Payments"
+- id: software-licensing
+  name: "Software Licensing"
+- id: ecommerce
+  name: "Ecommerce"
+- id: enterprise
+  name: "Enterprise"
+- id: tax
+  name: "Tax"
+- id: storefront
+  name: "Storefront"
+- id: creators
+  name: "Creators"
+- id: freemium
+  name: "Freemium"
+- id: memberships
+  name: "Memberships"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: headless-commerce
+  name: "Headless Commerce"
+- id: node-js
+  name: "Node.js"
+- id: wordpress
+  name: "WordPress"
+- id: tax-compliance
+  name: "Tax Compliance"
+- id: sales-tax
+  name: "Sales Tax"
+- id: vat
+  name: "VAT"
+- id: invoicing
+  name: "Invoicing"
+- id: payment-processor
+  name: "Payment Processor"
+- id: payouts
+  name: "Payouts"
+- id: accounts-payable
+  name: "Accounts Payable"
+- id: sales-funnels
+  name: "Sales Funnels"
+- id: subscriptions
+  name: "Subscriptions"
+- id: stripe
+  name: "Stripe"
+- id: pricing-pages
+  name: "Pricing Pages"
