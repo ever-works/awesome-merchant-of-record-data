@@ -1,18 +1,22 @@
-company_name: "Awesome Merchant of Record"
+company_name: Awesome Merchant of Record
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Merchant of Record"
-initial_prompt: "A curated directory of merchant-of-record platforms that sell SaaS and digital products for you and handle global tax. Include products such as Paddle, Lemon Squeezy, Polar, Creem, Dodo Payments, FastSpring, 2Checkout (Verifone), Gumroad, Payhip, Freemius, Stripe Tax, PayPro Global, plus other notable commercial and open-source options. Categories: Merchant-of-Record Platforms, Digital-Product Storefronts, Tax Compliance Add-ons, Payment Processors (non-MoR), Marketplace & Payout MoR, Pricing & Checkout Tools. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-merchant-of-record-website"
-company_website: "https://merchant-of-record.ever.works"
+name: Awesome Merchant of Record
+initial_prompt: "A curated directory of merchant-of-record platforms that sell
+  SaaS and digital products for you and handle global tax. Include products such
+  as Paddle, Lemon Squeezy, Polar, Creem, Dodo Payments, FastSpring, 2Checkout
+  (Verifone), Gumroad, Payhip, Freemius, Stripe Tax, PayPro Global, plus other
+  notable commercial and open-source options. Categories: Merchant-of-Record
+  Platforms, Digital-Product Storefronts, Tax Compliance Add-ons, Payment
+  Processors (non-MoR), Marketplace & Payout MoR, Pricing & Checkout Tools. For
+  every item capture the official website, a short factual description, pricing
+  model (free, freemium, paid, open source), deployment (cloud or self-hosted),
+  key features and integrations."
+website_repo: ever-works/awesome-merchant-of-record-website
+company_website: https://merchant-of-record.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +33,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
